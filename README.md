@@ -17,6 +17,8 @@ A simple Node.js web application showcasing a themed layout for a shark conserva
 
 ## Project Structure
 
+node_project/ ├── app.js ├── package.json ├── views/ │   ├── index.html │   ├── sharks.html │   └── css/ │       └── styles.css └── Dockerfile
+
 ## Prerequisites
 
 - Node.js  
